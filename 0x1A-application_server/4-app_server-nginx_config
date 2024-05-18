@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 server {
     listen 80;
     server_name 127.0.0.1 35.190.188.208;
